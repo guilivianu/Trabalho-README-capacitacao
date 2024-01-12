@@ -6,6 +6,8 @@
 <img src = "https://media.posterlounge.com/img/products/720000/714897/714897_poster.jpg" height="400">
 </h1>
 
+---
+
 ## Sobre
 
 Aqui vai uma lista de 10 coisas que você não pode deixar de fazer quando for pra Londres.
